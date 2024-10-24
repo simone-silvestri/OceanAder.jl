@@ -8,6 +8,7 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
 KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 Oceananigans = "9e8cae18-63c1-5223-a75c-80ca9d6e9a09"
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
 
 [compat]
 julia = "1.6.7"
